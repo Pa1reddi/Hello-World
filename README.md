@@ -1,3 +1,3 @@
 # Hello-World
 my first repository
-hurray,i'm learning how to se git!
+Hurray, I'm learning how to use git!
